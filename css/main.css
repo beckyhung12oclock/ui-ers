@@ -1089,7 +1089,7 @@ main.main section.areaview {
   padding: 60px;
 }
 main.main section.areaview.sticky-top {
-  top: 64px;
+  top: 60px;
 }
 @media screen and (max-width: 767px) {
   main.main section.areaview {

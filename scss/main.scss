@@ -1051,7 +1051,7 @@ main.main{
         background-size: 100% auto;
         padding: 60px;
         &.sticky-top{
-            top: 64px;
+            top: 60px;
         }
         @media screen and (max-width: $device-md)  {
            height: auto;
